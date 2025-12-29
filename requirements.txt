@@ -1,2 +1,3 @@
 Flask
 bakong_khqr
+requests==2.31.0
